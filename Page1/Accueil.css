@@ -1,0 +1,46 @@
+
+
+
+		body {
+			background-image:url(../Images/ErenPath.jpg);
+			background-size:50%;
+			background-color:black;
+			background-repeat:no-repeat;
+			background-position:left 50% bottom 100%;
+			color:darkblue;
+		}
+
+		#Tit {
+			text-align:center;
+			position:relative;
+			top:10px;
+			font-size:30px;
+		}
+
+		h1 {
+			
+			position:absolute;
+			top:200px;
+			left:300px;
+		}
+
+		#Robot {
+			position:absolute;
+			top:400px;
+			left:500px;
+		}
+
+		.liens {
+			position:relative;
+			top:500px;
+			color:darkred;
+		}
+
+		#custom-box {
+    border: 2px solid grey;
+    text-align: center;
+    padding: 10px;
+    width: fit-content;
+    background-color: white;
+    margin: auto;
+}
